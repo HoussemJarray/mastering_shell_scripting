@@ -1,0 +1,57 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Output files
+output/
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# Shell history
+.bash_history
+.zsh_history
+
+# Generated binaries
+*.out
+*.o
+*.so
+
+# Coverage reports
+coverage/
+*.coverage
+
+# Test artifacts
+test-results/
